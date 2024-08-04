@@ -1,0 +1,39 @@
+body {
+    font-family: Financier;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: black;
+    font-size: 24px;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+}
+
+/* Header Section */
+
+.header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    padding-left: 48px;
+    padding-right: 48px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-family: CaslonGraphique;
+}
+
+/* Hero Section */
