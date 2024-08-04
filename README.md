@@ -1,3 +1,1 @@
-A landing page using HTML and CSS including Flexbox
-
-Inspired by Wealthsimple
+A shop landing page using HTML and CSS including Flexbox
